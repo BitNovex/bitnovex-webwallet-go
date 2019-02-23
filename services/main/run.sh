@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-HOST_URI='http://192.168.1.158' \
+HOST_URI='https://wallet.bitnovex.com' \
 HOST_PORT=':80' \
 USER_URI='http://localhost:8081' \
 WALLET_URI='http://localhost:8082' \
