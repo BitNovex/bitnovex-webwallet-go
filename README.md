@@ -1,4 +1,4 @@
-# Shellnet
+# Official BitNovex Web Wallet
 
 
 ## Setup on Ubuntu 16.04+
